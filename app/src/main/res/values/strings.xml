@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProjectKelompok</string>
+    <string name="loading">Memuat...</string>
+    <string name="welcome">Selamat datang di aplikasi sederhana kita!</string>
+    <string name="home1">
+        Ini adalah tampilan sederhana dari Home Screen, semoga tidak mengecewakan.
+    </string>
+    <string name="home2">
+        Silahkan klik tombol <i>About</i> App atau <i>Our Team</i> untuk melihat lebih lanjut.
+    </string>
+</resources>
